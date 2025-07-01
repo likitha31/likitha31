@@ -6,7 +6,7 @@
 
 Welcome to my little corner of the internet!
 
-I'm a **Data Scientist & Analyst** with a strong belief that good data, when combined with clear communication and thoughtful design, can drive real-world impact - whether it's informing public health decisions, uncovering trade risks, or helping organizations make smarter business moves.
+I'm a **Data Scientist & Analyst** with a strong belief that good data, when combined with clear communication and thoughtful design, can drive real-world impact - whether it's informing public health decisions, uncovering cybersecurity risks, or helping organizations make smarter business moves.
 
 I recently graduated with a **Master’s in Data Science from George Washington University** (GPA: 3.96), I bring 2+ years of experience across industries - from building BI dashboards in **finance** and **cybersecurity** to modeling risk in **public health** and **policy** domains.
 
